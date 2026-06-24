@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Mukhamad Diva Mahardika Awaludin</h1>
 <h3 align="center">Backend Developer — Node.js · TypeScript · PHP / Laravel</h3>
 
 <p align="center">
