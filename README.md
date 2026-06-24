@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer — Node.js · TypeScript · PHP / Laravel</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PowPosting&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -47,17 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PowPosting&theme=tokyonight" alt="GitHub streak" />
 </p>
 
----
 
-### 🏆 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [project-1](https://github.com/YOUR_USERNAME/project-1) | API e-commerce dengan auth & payment | Node.js, Express, PostgreSQL |
-| [project-2](https://github.com/YOUR_USERNAME/project-2) | Sistem manajemen inventory | Laravel, MySQL |
-| [project-3](https://github.com/YOUR_USERNAME/project-3) | RESTful API + JWT & rate limiting | TypeScript, Node.js |
-
----
 
 ### 🌐 Connect With Me
 
